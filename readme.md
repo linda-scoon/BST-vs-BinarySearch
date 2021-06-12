@@ -33,18 +33,18 @@ Data is collected from 1000 iterations and MATLAB is used to plot the graphs.
 
 ### Observations
 
-<img src="picture1.png" alt="bst vs binary search" width="450"/>
+<img src="Picture1.png" alt="bst vs binary search" width="450"/>
 
 From the graphs you can see that both the BST and binary search of a sorted array plot logarithmic graphs inferring a time complexity of O(log n). However, unlike the sorted array the BST does not consistently produce the same results. Since the tree is randomly generated, sometimes an unbalanced tree is produced which leads to the worst-case time complexity of O(n).
 
 The graphs below demonstrate different results produced by different outputs, with the worst-case time complexity being O(n).
 
-<img src="picture2.png" alt="bst vs binary search" width="250"/>
-<img src="picture4.png" alt="bst vs binary search" width="250"/>
-<img src="picture5.png" alt="bst vs binary search" width="250"/>
-<img src="picture6.png" alt="bst vs binary search" width="250"/>
-<img src="picture7.png" alt="bst vs binary search" width="250"/>
-<img src="picture8.png" alt="bst vs binary search" width="250"/>
+<img src="Picture2.png" alt="bst vs binary search" width="250"/>
+<img src="Picture4.png" alt="bst vs binary search" width="250"/>
+<img src="Picture5.png" alt="bst vs binary search" width="250"/>
+<img src="Picture6.png" alt="bst vs binary search" width="250"/>
+<img src="Picture7.png" alt="bst vs binary search" width="250"/>
+<img src="Picture8.png" alt="bst vs binary search" width="250"/>
 
 ### Built With
 
